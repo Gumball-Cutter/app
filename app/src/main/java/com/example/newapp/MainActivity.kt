@@ -34,4 +34,11 @@ String Templates
         Open
         Click Version Control at bottom of Window
         View Log
+        VCS -> Git -> Commit
+        add message
+        Checkout Revision
+        Control click (or right click) to version you want to revert to
+        Reset current branch to here
+
+        changes
  */
